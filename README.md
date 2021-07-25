@@ -2,7 +2,7 @@
 
 
 ## [DevOps Foundations](https://www.linkedin.com/learning/devops-foundations) :
-- [ ] DevOps Basics
+- [x] DevOps Basics
 - [ ] DevOps A Culture Problem
 - [ ] The Building Blocks of DevOps
 - [ ] Infrastructure Automation
